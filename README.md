@@ -6,7 +6,8 @@ Introducing the complete Gameboy Cart GB and GBA CAD files. This repository incl
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-GB OEM Replica Redner:
+
+GB OEM Replica Render:
 ![OEM Replica GB Cart Render](https://github.com/PizzaHandhelds/GameboyCartCAD/assets/141514112/17330731-5447-4c6e-a6bc-fc34ae56320b)
 
 GBA OEM Replica Render:
